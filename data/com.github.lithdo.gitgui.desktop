@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello Again
+GenericName=Hello World App
+Comment=Sample app written in Vala
+Categories=Utility;Education;
+Exec=com.github.lithdo.gitgui
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNONE-Gettext-Domain=hello-again
+Keywords=Hello;World;Example;
